@@ -257,9 +257,9 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 
 ################################ France Language ########################
 [Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
 weight = 2
 
 [Languages.fr.params]
