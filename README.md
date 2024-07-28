@@ -1,6 +1,6 @@
-<h1 align=center>Meghna Hugo Theme</h1>
+<h1 align=center>Meghna Hugo Theme - Kidodo version</h1>
 
-<p align="center">Meghna is a dark single page professional Hugo website theme and crafted with all the necessary elements and features you will need to present your business.</p>
+<p align="center">This is a static business display website for personal development - forked from Meghna Hugo Theme</p>
 
 
 <h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/meghna" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fmeghna%2Fsite%2F&form_factor=desktop">Page Speed (99%)🚀</a> </h2>
