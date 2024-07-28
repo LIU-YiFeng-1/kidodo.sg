@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website</title>
+    <style>
+        .hero-area .block h1 {
+            margin-top: -20px; /* Adjust the value to the desired number of pixels */
+        }
+
+        .hero-area .block p {
+            margin-top: -20px; /* Adjust the value to the desired number of pixels */
+        }
+    </style>
+</head>
+<body>
 {{ $data := index site.Data site.Language.Lang }}
 
 {{ if $data.banner.banner.enable }}
@@ -25,3 +42,5 @@
 {{"<!-- /Welcome Slider-->" | safeHTML}}
 {{end}}
 {{end}}
+</body>
+</html>
