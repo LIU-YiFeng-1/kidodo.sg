@@ -4,31 +4,31 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name : Mall Rides
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
-    - name : Responsive Design
+    - name : Event Rentals
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Offer rentals for various events, such as corporate family days, community events, festivals, and school fairs, providing a fun attraction for children.
       
     # service item loop
-    - name : Media &amp; Advertisement
+    - name : Birthday Parties
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Provide special package for birthday parties, including customized animal rides and a dedicated operator to ensure the kids have a memorable experience.
       
     # service item loop
-    - name : Graphic Design
+    - name : Themed Rides and Experiences
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Create themed ride experiences based on popular holidays or characters (e.g., Christmas, Halloween, superheroes). These can be special, time-limited events in malls or public spaces.
       
     # service item loop
-    - name : Apps Development
+    - name : Educational Tours and Workshops
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Partner with schools and educational institutions to provide interactive sessions where kids learn about the technology behind the rides, safety, and the importance of play and creativity.
       
     # service item loop
-    - name : Networking
+    - name : Mobile Pop-Up Ride Experiences
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Set up temporary ride stations at high-traffic outdoor locations like parks, beaches, or tourist spots. This can be a seasonal offering, capitalizing on school holidays or weekends to attract families and tourists.

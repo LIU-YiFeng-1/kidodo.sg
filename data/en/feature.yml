@@ -3,8 +3,8 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : Bringing joy with our unique animal car rides!
+  content : "Our electric animal rides provide a safe, fun, and engaging experience for kids of all ages, allowing them to cruise around in style at parks, malls, or events. Each ride is designed to look like a cuddly animal, adding a touch of magic to every ride and ensuring smiles all around."
   feature_item : 
       # feature item loop
     - title : SEO Optimized
