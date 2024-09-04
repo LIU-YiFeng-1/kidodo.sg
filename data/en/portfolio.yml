@@ -1,61 +1,61 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : Our Animals
   portfolio_item :
     # portfolio item loop
     - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
+      image : images/portfolio/blue.jpg
+      image_webp : images/portfolio/blue.webp
+      categories : ["for boy"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "https://themefisher.com"
       
     # portfolio item loop
     - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
+      image : images/portfolio/crab.jpg
+      image_webp : images/portfolio/crab.webp
+      categories : ["for girl"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : ""
       
     # portfolio item loop
     - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
+      image : images/portfolio/elephant.jpg
+      image_webp : images/portfolio/elephant.webp
+      categories : [ "for girl"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
     - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
+      image : images/portfolio/green.jpg
+      image_webp : images/portfolio/green.webp
+      categories : ["for boy"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
     - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
+      image : images/portfolio/lion.jpg
+      image_webp : images/portfolio/lion.webp
+      categories : ["for boy", "for girl", "uni-sex"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
     - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
+      image : images/portfolio/panda.jpg
+      image_webp : images/portfolio/panda.webp
+      categories : ["for boy", "for girl", "uni-sex"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
     - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
+      image : images/portfolio/tiger.jpg
+      image_webp : images/portfolio/tiger.webp
+      categories : ["for boy"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
@@ -63,7 +63,7 @@ portfolio:
     - name : Stationary Design
       image : images/portfolio/portfolio-8.jpg
       image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
+      categories : ["uni-sex"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
@@ -71,6 +71,6 @@ portfolio:
     - name : Tag Design
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
+      categories : ["uni-sex"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
